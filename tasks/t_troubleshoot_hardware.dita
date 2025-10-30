@@ -9,16 +9,22 @@
     <steps>
       <step>
         <cmd>Check that the power outlet for your router is working properly. You can do this by plugging a different device into the same outlet and checking that it's charging.</cmd>
+        <info>
+          Note: If the router's indicator lights are off, it could be a sign that the outlet or the power cord aren't working.
+        </info>
       </step>
-      <!-- (Maybe use <note> or <info> attribute) Note: If the router's indicator lights are off, it could be a sign that the outlet or the power cord aren't working. -->
       <step>
         <cmd>Inspect the router, modem and cables for signs of physical damage. This can include tears or kinks in cables, dust build-up in the router vent, and cracks or dents in the router or modem.</cmd>
+        <info>
+          Note: If there's a dust build-up in your router vents, you can try removing it with compressed air or a cotton swab. If any of the hardware is damaged, the best thing to do is replace it!
+        </info>
       </step>
-        <!-- (Maybe use <note> or <info> attribute) Note: If there's a dust build-up in your router vents, you can try removing it with compressed air or a cotton swab. If any of the hardware is damaged, the best thing to do is replace it! -->
       <step>
         <cmd>Check the placement of your router. If your router isn't in a central location, is too close to other sources of electricity, or is obstructed by materials like concrete or metal, it may need to be moved to receive a better connection.</cmd>
+        <info>
+          Note: It also helps to put your router in a cool area where it isn't being hit by sunlight. This helps reduce over-heating and dust build-up!
+        </info>
       </step>
-     <!-- (Maybe use <note> or <info> attribute) Note: It also helps to put your router in a cool area where it isn't being hit by sunlight. This helps reduce over-heating and dust build-up! -->
       <step>
         <cmd>
           Check your device's connection to see if the issue has been resolved.
