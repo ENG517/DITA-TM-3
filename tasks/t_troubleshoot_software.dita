@@ -43,5 +43,16 @@
         </cmd>
       </step>
     </steps>
+    <!-- New section: Settings Adjustments
+    
+    If nothing has worked so far, it might be best to look at your router's settings and see if something needs to be changed!
+    
+    Log into your network administrator account on a device to review your settings.
+    
+    Check that DHCP server function is enabled.
+    
+    Clear your cache or use the Flush DNS option.
+    
+    Reboot your router by clicking 'Reboot'. -->
   </taskbody>
 </task>
