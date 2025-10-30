@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_installing_router_hardware">
-  <title>How to Install a Synology WRX560 Wi-Fi Router</title>
+  <title>Installing a Synology WRX560 Wi-Fi Router</title>
   <shortdesc>
-
+    If you've never installed a Synology WRX560 Wi-Fi router before, don't panic; this is a beginner-friendly guide!
   </shortdesc>
   <taskbody>
-
+    <steps>
+      <step>
+        <cmd>Check that your package has all three essential pieces of hardware: the Synology WRX560 router, an AC power adapter, and an RJ-45 LAN cable. You should also check to verify that you have an ISP modem and a working outlet to plug in the router.
+        </cmd>
+          <info>
+            Note: If your package is missing something, Synology recommends contacting the reseller.
+          </info>
+      </step>
+      <step>
+        <cmd>Place your router in the spot where you intend to plug it in. An optimal area would be a flat, stable surface in the center of your area, ideally with few walls or ceilings between the router and your devices.
+        </cmd>
+      </step>
+      <step>
+        <cmd>Plug one end of your LAN cable into the router's WAN1 port, and plug the other end into the ISP modem.
+        </cmd>
+      </step>
+      <step>
+        <cmd>Plug one end of your power adapter to the power port of your router, and connect the other end to your chosen power outlet.
+        </cmd>
+          <info>
+            Note: The power port is the small circular port next to the power button. 
+          </info>
+      </step>
+      <step>
+        <cmd>Press the power button to turn on your router. Within two minutes, the STATUS and WAN LED indicators should turn green to signal that the router is ready to connect to other devices. 
+        </cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>
