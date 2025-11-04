@@ -8,7 +8,7 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Connect a wireless device to your router by scanning the QR code provides on [Synology's website](https://www.synology.com/en-us).
+        <cmd>Connect a wireless device to your router by scanning the QR code provides on <xref href="https://www.synology.com/en-us"> Synology's official website. </xref>
         </cmd>
       </step>
       <step>
