@@ -29,8 +29,8 @@
 
           <!-- Alyssa listed this as an optional step - I included it as a substep -->
           <substeps>
-            <substep>
-              <cmd>Optional: Take photos of the cable setup for your old router and modem. This can be used as a reference when you install the new router, just in case you forget which ports the cables are plugged into.</cmd>
+            <substep importance="optional">
+              <cmd>Take photos of the cable setup for your old router and modem. This can be used as a reference when you install the new router, just in case you forget which ports the cables are plugged into.</cmd>
             </substep>
           </substeps>
           <info>
@@ -47,7 +47,11 @@
         <!-- STEP 4 -->
         <step>
           <cmd>Dispose of the old router and any other hardware you're swapping out for the new installation.</cmd>
-          <info>Note: It's recommended that you at least replace your power adapter cable, even if you don't replace your LAN cable; keeping the old power adapter could lead to performance issues in your new router.</info>
+          <stepresult>
+            <note type="tip">
+              It's recommended that you at least replace your power adapter cable, even if you don't replace your LAN cable; keeping the old power adapter could lead to performance issues in your new router.
+              </note>
+          </stepresult>
         </step>
         <!-- STEP 5 -->
         <step>
