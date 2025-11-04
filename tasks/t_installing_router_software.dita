@@ -20,18 +20,18 @@
           </note>
         </stepresult>
       </step>
+      <step><cmd>Open a web browser on your wireless device and search up either of these URLs:</cmd>
+        <choices>
+          <choice>http://router.synology.com</choice>
+          <choice>http://192.168.1.1:8000</choice> 
+        </choices>
+      </step>
       <step>
-        <cmd>Open a web browser on your wireless device and search up either of these URLs: 
-          - http://router.synology.com
-          - http://192.168.1.1:8000
+        <cmd>Click <uicontrol>Start</uicontrol>to launch the SRM Setup Wizard. 
         </cmd>
       </step>
       <step>
-        <cmd>Click <uicontrol>'Start'</uicontrol>to launch the SRM Setup Wizard. 
-        </cmd>
-      </step>
-      <step>
-        <cmd>Read and agree to the Synology End User License Agreement, then click <uicontrol>'next'</uicontrol>. Repeat with the Privacy Statement.
+        <cmd>Read and agree to the Synology End User License Agreement, then click <uicontrol>next</uicontrol>. Repeat with the Privacy Statement.
         </cmd>
       </step>
       <step>
