@@ -17,15 +17,15 @@
       </step>
       <step>
         <cmd>Inspect the router, modem and cables for signs of physical damage. This can include tears or kinks in cables, dust build-up in the router vent, and cracks or dents in the router or modem.</cmd>
-        <info>
-          Note: If there's a dust build-up in your router vents, you can try removing it with compressed air or a cotton swab. If any of the hardware is damaged, the best thing to do is replace it!
-        </info>
+        <stepresult>
+          <note type="tip">If there's a dust build-up in your router vents, you can try removing it with compressed air or a cotton swab. If any of the hardware is damaged, the best thing to do is replace it!</note>
+          </stepresult>
       </step>
       <step>
         <cmd>Check the placement of your router. If your router isn't in a central location, is too close to other sources of electricity, or is obstructed by materials like concrete or metal, it may need to be moved to receive a better connection.</cmd>
-        <info>
-          Note: It also helps to put your router in a cool area where it isn't being hit by sunlight. This helps reduce over-heating and dust build-up!
-        </info>
+        <stepresult>
+          <note type="tip">It also helps to put your router in a cool area where it isn't being hit by sunlight. This helps reduce over-heating and dust build-up!</note>
+        </stepresult>
       </step>
       <step>
         <cmd>
