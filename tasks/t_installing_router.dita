@@ -10,9 +10,11 @@
       <step>
         <cmd>Check that your package has all three essential pieces of hardware: the Synology WRX560 router, an AC power adapter, and an RJ-45 LAN cable. You should also check to verify that you have an ISP modem and a working outlet to plug in the router.
         </cmd>
-          <info>
-            Note: If your package is missing something, Synology recommends contacting the reseller.
-          </info>
+        <stepresult>
+          <note type="tip">
+            If your package is missing something, Synology recommends contacting the reseller.
+          </note>
+        </stepresult>
       </step>
       <step>
         <cmd>Place your router in the spot where you intend to plug it in. An optimal area would be a flat, stable surface in the center of your area, ideally with few walls or ceilings between the router and your devices.
@@ -25,9 +27,11 @@
       <step>
         <cmd>Plug one end of your power adapter to the power port of your router, and connect the other end to your chosen power outlet.
         </cmd>
-          <info>
-            Note: The power port is the small circular port next to the power button. 
-          </info>
+        <stepresult>
+          <note type="tip">
+            The power port is the small circular port next to the power button. 
+          </note>
+        </stepresult>
       </step>
       <step>
         <cmd>Press the power button to turn on your router. Within two minutes, the STATUS and WAN LED indicators should turn green to signal that the router is ready to connect to other devices. 
