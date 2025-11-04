@@ -9,9 +9,11 @@
     <steps>
       <step>
         <cmd>Check that the power outlet for your router is working properly. You can do this by plugging a different device into the same outlet and checking that it's charging.</cmd>
-        <info>
-          Note: If the router's indicator lights are off, it could be a sign that the outlet or the power cord aren't working.
-        </info>
+        <stepresult>
+          <note type="tip">
+            If the router's indicator lights are off, it could be a sign that the outlet or the power cord aren't working.
+          </note>
+        </stepresult>
       </step>
       <step>
         <cmd>Inspect the router, modem and cables for signs of physical damage. This can include tears or kinks in cables, dust build-up in the router vent, and cracks or dents in the router or modem.</cmd>
