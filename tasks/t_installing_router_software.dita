@@ -14,9 +14,11 @@
       <step>
         <cmd>Use Synology's default login information to connect to the Wi-Fi network. Synology's default SSID is is "Synology_" and the last 6 digits of your router's serial number, and its default password is "synology" in all lowercase. 
         </cmd>
-          <info>
-            Note: Synology requires you to change this password during the setup process. 
-          </info>
+        <stepresult>
+          <note type="tip">
+            Synology requires you to change this password during the setup process. 
+          </note>
+        </stepresult>
       </step>
       <step>
         <cmd>Open a web browser on your wireless device and search up either of these URLs: 
