@@ -21,16 +21,20 @@
         <cmd>
           Log into your network administrator account for your router.
         </cmd>
-        <info>
-          Note: Your network administrator account is the account you made after installing your router. It's used for logging into your Synology network.
-        </info>
+        <stepresult>
+          <note type="tip">
+          Your network administrator account is the account you made after installing your router. It's used for logging into your Synology network.
+          </note>
+        </stepresult>
       </step>
       <step>
         <cmd>Navigate to the <uicontrol> Firmware Update </uicontrol> section and upload the new file.
         </cmd>
-        <info>
-          Note: Do not interrupt this new update; it could severely damage your router.
-        </info>
+        <stepresult>
+          <note type="tip">
+          Do not interrupt this new update; it could severely damage your router.
+        </note>
+        </stepresult>
       </step>
       <step>
         <cmd>
