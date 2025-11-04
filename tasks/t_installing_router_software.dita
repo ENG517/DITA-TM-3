@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_installing_router_software">
+  <title>How to Install a Synology WRX560 Wi-Fi Router (software)</title>
+  <shortdesc>
+    After you've installed your router's hardware, it's time to connect to the software!
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Connect a wireless device to your router by scanning the QR code provided on <xref href="https://www.synology.com/en-us"> Synology's official website. </xref>
+        </cmd>
+      </step>
+      <step>
+        <cmd>Use Synology's default login information to connect to the Wi-Fi network. Synology's default SSID is is "Synology_" and the last 6 digits of your router's serial number, and its default password is "synology" in all lowercase. 
+        </cmd>
+        <stepresult>
+          <note type="tip">
+            Synology requires you to change this password during the setup process. 
+          </note>
+        </stepresult>
+      </step>
+      <step><cmd>Open a web browser on your wireless device and search up either of these URLs:</cmd>
+        <choices>
+          <choice>http://router.synology.com</choice>
+          <choice>http://192.168.1.1:8000</choice> 
+        </choices>
+      </step>
+      <step>
+        <cmd>Click <uicontrol>Start</uicontrol>to launch the SRM Setup Wizard. 
+        </cmd>
+      </step>
+      <step>
+        <cmd>Read and agree to the Synology End User License Agreement, then click <uicontrol>next</uicontrol>. Repeat with the Privacy Statement.
+        </cmd>
+      </step>
+      <step>
+        <cmd>Set up your administrator account by filling in the necessary information. 
+        </cmd>
+      </step>
+      <step>
+        <cmd>Set up your Wi-Fi network with the necessary information. Wait for the Setup Wizard to finish the setup. This may take up to three minutes. 
+        </cmd>
+      </step>
+      <step>
+        <cmd>Sign in to SRM with your newly set-up administrator account. 
+        </cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

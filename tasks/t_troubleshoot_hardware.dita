@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_troubleshooting_hardware">
+  <title>Troubleshooting Physical Issues</title>
+  <shortdesc>
+    If resetting your router doesn't work, there may be some physical issues, such as a faulty power source, hardware damage, or the router being in the wrong environment.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Check that the power outlet for your router is working properly. You can do this by plugging a different device into the same outlet and checking that it's charging.</cmd>
+        <stepresult>
+          <note type="tip">
+            If the router's indicator lights are off, it could be a sign that the outlet or the power cord aren't working.
+          </note>
+        </stepresult>
+      </step>
+      <step>
+        <cmd>Inspect the router, modem and cables for signs of physical damage. This can include tears or kinks in cables, dust build-up in the router vent, and cracks or dents in the router or modem.</cmd>
+        <stepresult>
+          <note type="tip">If there's a dust build-up in your router vents, you can try removing it with compressed air or a cotton swab. If any of the hardware is damaged, the best thing to do is replace it!</note>
+          </stepresult>
+      </step>
+      <step>
+        <cmd>Check the placement of your router. If your router isn't in a central location, is too close to other sources of electricity, or is obstructed by materials like concrete or metal, it may need to be moved to receive a better connection.</cmd>
+        <stepresult>
+          <note type="tip">It also helps to put your router in a cool area where it isn't being hit by sunlight. This helps reduce over-heating and dust build-up!</note>
+        </stepresult>
+      </step>
+      <step>
+        <cmd>
+          Check your device's connection to see if the issue has been resolved.
+        </cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
