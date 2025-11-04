@@ -27,11 +27,11 @@
         </cmd>
       </step>
       <step>
-        <cmd>Click 'Start' to launch the SRM Setup Wizard. 
+        <cmd>Click <uicontrol>'Start'</uicontrol>to launch the SRM Setup Wizard. 
         </cmd>
       </step>
       <step>
-        <cmd>Read and agree to the Synology End User License Agreement, then click 'next'. Repeat with the Privacy Statement.
+        <cmd>Read and agree to the Synology End User License Agreement, then click <uicontrol>'next'</uicontrol>. Repeat with the Privacy Statement.
         </cmd>
       </step>
       <step>
