@@ -21,6 +21,19 @@ Map Outline:
 - c_filename.dita (File title)
 - t_filename.dita (File title)
   - t_filename.dita (File title)
+<!-- map outline:
+  - c - what does a router do
+  - c - description of model
+  - r - router hardware
+  - t - installing hardware
+  - r - router software
+  - t - installing software
+  - r - glossary
+
+
+
+
+ -->
 
 ### User Scenario 2: ...
 
@@ -34,17 +47,29 @@ Map Outline:
 - t_filename.dita (File title)
   - t_filename.dita (File title)
 
+<!-- map outline:
+
+  - c - description of the model
+  - t - replacing
+  - r - router hardware
+  - r - router software
+ -->
+
 ### User Scenario 3: ...
 
 <!-- EXPERIENCED USERS: Troubleshooting. Map should include reference and concept tasks -->
 
-Pam and Gray are an elderly married couple in their late 60s who are having connectivity/speed issues with their Synology WRX560 Wi-Fi router. Although they're very familiar with the installation and set-up process, they have no experience with troubleshooting and are unsure where to even start. They want to resolve the issue as quickly and efficiently as possible, and are also hoping to remember this information in case of future issues. They're also looking for a guide free of complex language since they aren't very familiar with technological terms, although they do know the terms for the different parts of their router setup.
+Pam and Gray are an elderly married couple in their 70s who are having connectivity/speed issues with their Synology WRX560 Wi-Fi router. Although they're very familiar with the installation and set-up process, they have no experience with troubleshooting and are unsure where to even start. They want to resolve the issue as quickly and efficiently as possible, and are also hoping to remember this information in case of future issues. They're also looking for a guide free of complex language since they aren't very familiar with technological terms, although they do know the terms for the different parts of their router setup.
 
 Map Outline:
 - c_filename.dita (File title)
 - c_filename.dita (File title)
 - t_filename.dita (File title)
   - t_filename.dita (File title)
+
+<!-- Map Outline
+
+ -->
 
 ## Folders &amp; Files
 
