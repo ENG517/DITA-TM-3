@@ -2,10 +2,11 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_wifi_routers">
   <title>What Does A Wi-Fi Router Do?</title>
-  <shortdesc>
-
+  <shortdesc>When you're setting up a Wi-Fi router for the first time, it can be helpful to understand what routers actually do!
   </shortdesc>
   <conbody>
-
+    <section>
+      <p>Wi-Fi routers are devices used to sustain and manage a wireless internet connection between multiple devices and a <term>modem</term>. Routers work like a traffic controller or an intermediary, managing "packets" of data and moving them between the modem and your devices in a way that's more secure than just directly connecting your modem to the internet.</p>
+    </section>
   </conbody>
 </concept>
