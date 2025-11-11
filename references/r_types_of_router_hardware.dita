@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_types_of_router_hardware">
+  <title>Synology WRX560 Hardware Parts</title>
+  <shortdesc>Knowing the different parts of your Synology WRX560 router's hardware is key to a proper set-up!
+  </shortdesc>
+  <refbody>
+    <section>
+      <ul>
+        <li>Synology WRX560 Wi-Fi Router</li>
+        <li>AC Power Adapter</li>
+        <li>RJ-45 LAN Cable</li>
+        <li>ISP Modem</li>
+      </ul>
+    </section>
+  </refbody>
+</reference>

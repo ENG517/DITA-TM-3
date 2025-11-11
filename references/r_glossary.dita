@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_glossary">
+  <title>Glossary of Terms for the Synology WRX560</title>
+  <shortdesc>Whether you're installing, replacing, or troubleshooting your Synology WRX560, here's some helpful terms to know!
+  </shortdesc>
+  <refbody>
+    <section>
+      <dl>
+        <dlentry>
+          <dt>Hardware</dt>
+          <dd>The physical/tangible part of tech, like routers, modems and cables</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>Software</dt>
+          <dd>The digital/intangible part of tech, like websites and computer programs</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>Router</dt>
+          <dd>Hardware that connects and manages networks to provide an Internet connection </dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>ISP Modem</dt>
+          <dd>Hardware that converts signals between devices to maintain a stable connection</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>Power Adapter Cable</dt>
+          <dd>Hardware that ensures devices get the right kind of electrical power </dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>LAN Cable</dt>
+          <dd>Hardware that virtually connects devices and provides communication between them</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>Indicator</dt>
+          <dd>Small colored lights on a router that 'indicate' the device's operational state</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>Ports</dt>
+          <dd>The parts of a router where additional hardware (like cables) can be plugged in</dd>
+        </dlentry>
+      </dl>
+      <dl>
+        <dlentry>
+          <dt>Band</dt>
+          <dd>The frequency range of your Wi-Fi router, which impacts the network's speed, range, and interference susceptibility</dd>
+        </dlentry>
+      </dl>
+    </section>
+  </refbody>
+</reference>
