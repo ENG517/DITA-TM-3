@@ -3,9 +3,16 @@
 <reference id="r_types_of_router_hardware">
   <title>Synology WRX560 Hardware Parts</title>
   <shortdesc>
-
   </shortdesc>
   <refbody>
-
+    <section>
+      <ul>
+        <li>Synology WRX560 Wi-Fi Router</li>
+        <li>AC Power Adapter</li>
+        <li>RJ-45 LAN Cable</li>
+        <li>ISP Modem</li>
+        <li>Software Set-Up Device (Phone, Laptop, etc)</li>
+      </ul>
+    </section>
   </refbody>
 </reference>
