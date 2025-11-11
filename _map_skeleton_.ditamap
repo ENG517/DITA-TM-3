@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_troubleshooting_router_issues">
+  <title>Troubleshooting Issues with a Synology WRX560 Wi-Fi Router</title>
+  <topicref type="task" href="t_troubleshoot_hardware.dita" format="ditamap">
+    <topicmeta>
+      <navtitle></navtitle>
+    </topicmeta>
+  </topicref>
+  <topicref type="task" href="t_troubleshoot_software.dita" format="ditamap">
+    <topicmeta>
+      <navtitle></navtitle>
+    </topicmeta>
+  </topicref>
+  <topicref type="reference" href="r_types_of_router_hardware.dita" format="ditamap">
+    <topicmeta>
+      <navtitle></navtitle>
+    </topicmeta>
+  </topicref>
+  <topicref type="reference" href="r_glossary" format="ditamap">
+    <topicmeta>
+      <navtitle></navtitle>
+    </topicmeta>
+  </topicref>
+</map>
