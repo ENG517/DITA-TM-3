@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="m_replacing_router">
+<map id="m_installing_router">
   <title>Installing a Synology WRX560 Wi-Fi Router</title>
   <topicref type="concept" href="c_wifi_routers.dita" format="ditamap">
     <topicmeta>
