@@ -21,7 +21,6 @@ Map Outline:
 - c_router_description.dita (File title)
 - r_router_hardware
 - t_installing_router_hardware.dita (File title)
-- r_router_software
 - t_installing_router_software
 - r_glossary
 <!-- map outline:
@@ -29,7 +28,6 @@ Map Outline:
   - c - description of model
   - r - router hardware
   - t - installing hardware
-  - r - router software
   - t - installing software
   - r - glossary
 
@@ -49,14 +47,12 @@ Map Outline:
 - c_router_description.dita (File title)
 - t_replacing_router.dita (File title)
 - r_router_hardware.dita (File title)
-- r_router_software.dita (File title)
 
 <!-- map outline:
 
   - c - description of the model
   - t - replacing
   - r - router hardware
-  - r - router software
  -->
 
 ### User Scenario 3: ...
@@ -69,7 +65,6 @@ Map Outline:
 <!-- UPDATE FILE NAMES WHEN THEY ARE READY -->
 - r_router_hardware.dita (File title)
 - t_troubleshoot_hardware.dita (File title)
-- r_router_software.dita (File title)
 - t_troubleshoot_software.dita (File title)
 - r_glossary
 
@@ -77,7 +72,6 @@ Map Outline:
 
   - r - hardware parts
   - t - troubleshooting hardware
-  - r - software parts
   - t - troubleshooting software
   - r - glossary
   - 
