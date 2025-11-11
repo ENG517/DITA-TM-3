@@ -11,6 +11,7 @@ Map Outline:
 - r_types_of_router_hardware.dita
 - r_glossary.dita
 
+This map responds to a user scenario in which two new users are attempting to install a new wifi router for the first time. We built the map around two task topics: the first explaining how to install the router hardware, and the second explaining how to install the router software. Since these are new users, we included two concept topics in the beginning which we thought would be helpful to orient the user before starting the install. The first was a simple concept topic explaining what wifi routers are and what they do. The next concept topic gave a description of the specific wifi router they had purchased. Finally, at the end we included two reference topics: a list of the hardware parts, and a glossary of relevant terms.
 
 ### User Scenario 2: ...
 
@@ -23,6 +24,8 @@ Map Outline:
 - t_replacing_router.dita 
 - r_types_of_router_hardware.dita
 
+This map responds to a scenario in which a user who is experienced with the router installation process needs help replacing an old router with a new one. We built this map around a task topic that provides a guide to replacing your router. Since the current model of the router may have been updated or may be different from the previous router that this user purchased, we included a concept topic that describes the current router model, so they can orient themselves to any differences in the model. We also included a reference topic with a list of hardware parts included with the router, so that they are aware of all the parts needed for the replacement. It's important to note that the user is not concerned much with learning new information -- their priority is get the old router replaced as quickly as possible, so we did not want them to be bogged down with any unnecessary information.
+
 
 ### User Scenario 3: ...
 
@@ -34,3 +37,5 @@ Map Outline:
 - t_troubleshoot_software.dita
 - r_types_of_router_hardware.dita
 - r_glossary
+
+This map responds to a user scenario in which the users are troubleshooting connectivity issues. We created a task topic for troubleshooting hardware-related issues, as well as a task topic for troubleshooting software issues. Following the task topics, we included a reference topic containing a list of the hardware parts. Also, the user scenario specifically states that they will need definitions for technical terms, so we included a glossary of terms in a reference topic.
