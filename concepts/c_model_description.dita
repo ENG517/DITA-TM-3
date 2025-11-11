@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_model_description">
+  <title>The Synology WRX560 Model</title>
+  <shortdesc>Wondering what makes the Synology WRX560 different from other Wi-Fi router models? Read to learn more about the unique features it offers!
+  </shortdesc>
+  <conbody>
+    <section>
+      <p>Released by Synology Inc. in November of 2022, WRX560 is a <term>mesh</term> Wi-Fi 6 router model that offers fast speeds and a wider range of internet coverage due to its high-performance internal antennas, compact design, and ability to handle channels of varying <term>bandwidths</term>. The model comes with several unique features, including:
+      </p>
+        <ul>
+          <li>Mesh Wi-Fi: You can combine multiple Synology routers (WRX560 or otherwise) under a single Wi-Fi name for full-home coverage.</li>
+          <li>Smart Connect: The WRX560 offers an optimized signal that automatically steers your devices toward the fastest and strongest Wi-Fi band.</li>
+          <li>Parental Controls: Families can monitor devices the Wi-Fi is used on, restrict access to specific websites, and set screen time limits.</li>
+          <li>Remote Access: You can control the router remotely, including its parental controls, traffic monitoring tool, and management settings.</li>
+        </ul>
+    </section>
+  </conbody>
+</concept>
