@@ -4,6 +4,6 @@
   <title>Troubleshooting Issues with a Synology WRX560 Wi-Fi Router</title>
   <topicref type="task" href="tasks/t_troubleshoot_hardware.dita" />
   <topicref type="task" href="tasks/t_troubleshoot_software.dita" />
-  <topicref type="reference" href="referenc/r_types_of_router_hardware.dita" />
-  <topicref type="reference" href="reference/r_glossary" />
+  <topicref type="reference" href="references/r_types_of_router_hardware.dita" />
+  <topicref type="reference" href="references/r_glossary" />
 </map>
