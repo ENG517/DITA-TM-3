@@ -5,5 +5,5 @@
   <topicref type="task" href="tasks/t_troubleshoot_hardware.dita" />
   <topicref type="task" href="tasks/t_troubleshoot_software.dita" />
   <topicref type="reference" href="references/r_types_of_router_hardware.dita" />
-  <topicref type="reference" href="references/r_glossary" />
+  <topicref type="reference" href="references/r_glossary.dita" />
 </map>
