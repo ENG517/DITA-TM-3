@@ -2,19 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_replacing_router">
   <title>Replacing a Synology WRX560 Wi-Fi Router</title>
-  <topicref type="concept" href="c_model_description.dita" format="ditamap">
-    <topicmeta>
-      <navtitle></navtitle>
-    </topicmeta>
-  </topicref>
-  <topicref type="task" href="t_replacing_router.dita" format="ditamap">
-    <topicmeta>
-      <navtitle></navtitle>
-    </topicmeta>
-  </topicref>
-  <topicref type="reference" href="r_types_of_router_hardware.dita" format="ditamap">
-    <topicmeta>
-      <navtitle></navtitle>
-    </topicmeta>
-  </topicref>
+  <topicref type="concept" href="concepts/c_model_description.dita" />
+  <topicref type="task" href="tasks/t_replacing_router.dita" />
+  <topicref type="reference" href="references/r_types_of_router_hardware.dita" />
 </map>

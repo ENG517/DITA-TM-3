@@ -2,10 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_installing_router">
   <title>Installing a Synology WRX560 Wi-Fi Router</title>
-  <topicref type="concept" href="concepts/c_wifi_routers.dita" format="ditamap" />
-  <topicref type="concept" href="concepts/c_model_description.dita" format="ditamap" />
-  <topicref type="task" href="tasks/t_installing_router_hardware.dita" format="ditamap" />
-  <topicref type="task" href="tasks/t_installing_router_software.dita" format="ditamap" />
-  <topicref type="reference" href="references/r_types_of_router_hardware.dita" format="ditamap" />
-  <topicref type="reference" href="references/r_glossary.dita" format="ditamap" />
+  <topicref type="concept" href="concepts/c_wifi_routers.dita" />
+  <topicref type="concept" href="concepts/c_model_description.dita" />
+  <topicref type="task" href="tasks/t_installing_router_hardware.dita" />
+  <topicref type="task" href="tasks/t_installing_router_software.dita" />
+  <topicref type="reference" href="references/r_types_of_router_hardware.dita" />
+  <topicref type="reference" href="references/r_glossary.dita" />
 </map>
