@@ -69,6 +69,6 @@
       </steps>
     
     <!-- add result condition: how does the user know it is successful? -->
-    <result>Congratulations, you've successfully replaced your old Synology WRX560 router with a new one! If you need a quick refresher on the installation process, feel free to check out our user guide on the procedure. You can also visit <xref href="https://kb.synology.com/en-us/SRM">Synology's official website</xref> if you have any questions!</result>
+    <result>Congratulations, you've successfully replaced your old Synology WRX560 router with a new one! If you need a quick refresher on the installation process, feel free to check out our user guide on the procedure. You can also visit <xref scope="external" href="https://kb.synology.com/en-us/SRM">Synology's official website</xref> if you have any questions!</result>
   </taskbody>
 </task>
