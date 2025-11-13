@@ -22,8 +22,8 @@
       </step>
       <step><cmd>Open a web browser on your wireless device and search up either of these URLs:</cmd>
         <choices>
-          <choice>http://router.synology.com</choice>
-          <choice>http://192.168.1.1:8000</choice> 
+          <choice><xref scope="external" href="http://router.synology.com" /></choice>
+          <choice><xref scope="external" href="http://192.168.1.1:8000" /></choice> 
         </choices>
       </step>
       <step>
