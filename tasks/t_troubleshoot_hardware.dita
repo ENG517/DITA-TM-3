@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_troubleshooting_hardware">
+  <!-- LINDGREN
+    Love these troubleshooting topics. Here are some suggestions to consider throughout:
+    - Note how some inspection moves include multiple potential options and suboptions, so I would consider using some form of choicetable or substeps.
+    - Are these ordered or unordered? If sequence doesn't matter, then you should be using <steps-unordered>. You may also consider another element called <steps-informal>, wherein you can provide more paragraph like content with less rigid step-based XML rules.
+    - If any of these are highly contextual to some specific task topics, then consider also considerthe steptroubleshooting element: https://www.oxygenxml.com/dita/1.3/specs/langRef/technicalContent/steptroubleshooting.html. You could also conref any in, after your write up this topic.
+  -->
   <title>Troubleshooting Physical Issues</title>
   <shortdesc>
     If resetting your router doesn't work, there may be some physical issues, such as a faulty power source, hardware damage, or the router being in the wrong environment.

@@ -13,6 +13,7 @@ Map Outline:
 
 This map responds to a user scenario in which two new users are attempting to install a new wifi router for the first time. We built the map around two task topics: the first explaining how to install the router hardware, and the second explaining how to install the router software. Since these are new users, we included two concept topics in the beginning which we thought would be helpful to orient the user before starting the install. The first was a simple concept topic explaining what wifi routers are and what they do. The next concept topic gave a description of the specific wifi router they had purchased. Finally, at the end we included two reference topics: a list of the hardware parts, and a glossary of relevant terms.
 
+
 ### User Scenario 2: ...
 
 
@@ -39,3 +40,14 @@ Map Outline:
 - r_glossary
 
 This map responds to a user scenario in which the users are troubleshooting connectivity issues. We created a task topic for troubleshooting hardware-related issues, as well as a task topic for troubleshooting software issues. Following the task topics, we included a reference topic containing a list of the hardware parts. Also, the user scenario specifically states that they will need definitions for technical terms, so we included a glossary of terms in a reference topic.
+
+
+## Lindgren Feedback
+
+- Main question to consider throughout your reflection for each scenario: But, why these files and in this sequence? How did your division of topics and reassembling of them in this sequence meet the target audience scenario? In short, provide a rationale for your design choices, so I know the why and intention behind your work.
+- TO-DO: This model needs has yet to apply the audience attribute with "novice" vs. "expert" values for filtering conditions.
+- See my comments throughout the model, which are often also representative of aspects to identify and resolve throughout the other files. Some highlights to consider:
+    1. XML formatting needs to be more consistent throughout.
+    2. Verb choices for task steps should be reviewed and revised. See some feedback in a couple of files.
+    3. Love the initial experimentation of glossary work. I would ask you to consider some places where terminology presupposes an audience already knows certain terms or acronyms, but one shouldn't. For example, "SSID" or why ask the user to go to 1 of 2 URLs, etc. I recommend considering what conceptual information has yet to be provided in a concept topic, which you could then conref into potential moments throughout your task-based content.
+    4. There are some steps that should be broken up more, or use other subelements to divide up the guiding command/action of the step from explanatory or orienting content.
