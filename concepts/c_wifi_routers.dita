@@ -6,7 +6,7 @@
   </shortdesc>
   <conbody>
     <section>
-      <p>Wi-Fi routers are devices used to sustain and manage a wireless internet connection between multiple devices and a <term>modem</term>. Routers work like a traffic controller or an intermediary, managing "packets" of data and moving them between the modem and your devices in a way that's more secure than just directly connecting your modem to the internet.</p>
+      <p>Wi-Fi routers are devices that maintain and manage a wireless internet connection between multiple devices and a <term>modem</term>. They function like traffic controllers, directing "packets" of data and moving them between the modem and your devices, and providing a more secure setup than connecting a modem directly to the internet.</p>
     </section>
   </conbody>
 </concept>
