@@ -33,6 +33,7 @@ This map responds to a scenario in which a user who is experienced with the rout
 Pam and Gray are an elderly married, retired couple in their 70s who are having connectivity/speed issues with their Synology WRX560 Wi-Fi router. Although they're very familiar with the Synology WRX560 Wi-Fi router, including the installation and set-up process, they have no experience with troubleshooting and are unsure where to even start. They want to resolve the issue efficiently, but they don't have a major time constraint since they are retired. Their priority is to learn this information and be able to refer to it for future cases. They're also looking for a guide that is easily understandable to a non-technical audience and includes definitions for any technical terms.
 
 Map Outline:
+- c_troubleshooting_process.dita
 - t_troubleshoot_hardware.dita 
 - t_troubleshoot_software.dita
 - r_types_of_router_hardware.dita
