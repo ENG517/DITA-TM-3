@@ -2,20 +2,20 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_glossary">
   <title>Glossary of Terms for the Synology WRX560</title>
-  <shortdesc>Whether you're installing, replacing, or troubleshooting your Synology WRX560, here's some helpful terms to know!
+  <shortdesc>Here are some helpful terms to know if you're installing, replacing, or troubleshooting your Synology WRX560!
   </shortdesc>
   <refbody>
     <section>
       <dl>
         <dlentry>
           <dt>Hardware</dt>
-          <dd>The physical/tangible part of tech, like routers, modems and cables</dd>
+          <dd>The physical or tangible part of tech, like routers, modems and cables</dd>
         </dlentry>
       </dl>
       <dl>
         <dlentry>
           <dt>Software</dt>
-          <dd>The digital/intangible part of tech, like websites and computer programs</dd>
+          <dd>The digital or intangible part of tech, like websites and computer programs</dd>
         </dlentry>
       </dl>
       <dl>
@@ -27,37 +27,37 @@
       <dl>
         <dlentry>
           <dt>ISP Modem</dt>
-          <dd>Hardware that converts signals between devices to maintain a stable connection</dd>
+          <dd>Hardware that converts signals between your internet service and your devices to maintain a stable connection</dd>
         </dlentry>
       </dl>
       <dl>
         <dlentry>
           <dt>Power Adapter Cable</dt>
-          <dd>Hardware that ensures devices get the right kind of electrical power </dd>
+          <dd>Hardware that supplies devices with the correct type of electrical power</dd>
         </dlentry>
       </dl>
       <dl>
         <dlentry>
           <dt>LAN Cable</dt>
-          <dd>Hardware that virtually connects devices and provides communication between them</dd>
+          <dd>Hardware that physically connects devices to enable communication between them</dd>
         </dlentry>
       </dl>
       <dl>
         <dlentry>
           <dt>Indicator</dt>
-          <dd>Small colored lights on a router that 'indicate' the device's operational state</dd>
+          <dd>Small colored lights on a router that show the device's current operating status</dd>
         </dlentry>
       </dl>
       <dl>
         <dlentry>
           <dt>Ports</dt>
-          <dd>The parts of a router where additional hardware (like cables) can be plugged in</dd>
+          <dd>Openings on a router used for connecting cables and other hardware</dd>
         </dlentry>
       </dl>
       <dl>
         <dlentry>
           <dt>Band</dt>
-          <dd>The frequency range of your Wi-Fi router, which impacts the network's speed, range, and interference susceptibility</dd>
+          <dd>The frequency range used by your Wi-Fi router, affecting speed, range, and susceptibility to interference</dd>
         </dlentry>
       </dl>
     </section>
