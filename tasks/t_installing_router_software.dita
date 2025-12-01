@@ -3,7 +3,7 @@
 <task id="t_installing_router_software">
   <title>Installing a Synology WRX560 Wi-Fi Router (software)</title>
   <shortdesc>
-    After you've installed your router's hardware, it's time to connect to the software!
+    After you've installed your router's hardware, it's time to connect the software!
   </shortdesc>
   <taskbody>
     <steps>
@@ -39,7 +39,7 @@
         </cmd>
       </step>
       <step>
-        <cmd>Set up your Wi-Fi network with the necessary information. Wait for the Setup Wizard to finish the setup. This may take up to three minutes. 
+        <cmd>Set up your Wi-Fi network with the necessary information. Wait for the Setup Wizard to finish. This may take up to three minutes. 
         </cmd>
       </step>
       <step>
