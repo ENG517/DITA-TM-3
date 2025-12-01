@@ -9,22 +9,22 @@
       <dl>
         <dlentry>
           <dt>Synology WRX560 Wi-Fi Router</dt>
-          <dd>Your Wi-Fi router, which gets attached to the modem with cables to facilitate an internet connection between the modem and your devices</dd>
+          <dd>The router that connects to your modem using network cables, allowing your devices to access the internet.</dd>
         </dlentry>
       </dl><dl>
         <dlentry>
           <dt>ISP Modem</dt>
-          <dd>A device that connects your home to your Internet Service Provider by translating the network signal into a format your devices can use</dd>
+          <dd>The device that links your home to your Internet Service Provider and converts the incoming network signal into a format your router and devices can use.</dd>
         </dlentry>
       </dl><dl>
         <dlentry>
           <dt>AC Power Adapter</dt>
-          <dd>A device that converts AC (alternating current) into DC (direct current) from your wall outlet to provide the correct amount of power and voltage your router needs</dd>
+          <dd>The adapter that converts AC (alternating current) from your wall outlet into DC (direct current) to supply the router with the proper power and voltage.</dd>
         </dlentry>
       </dl><dl>
         <dlentry>
           <dt>RJ-45 LAN Cable</dt>
-          <dd>TA cable that connects your router to your wired devices (like computers) to facilitate a Wi-Fi connection</dd>
+          <dd>The cable used to connect your router to wired devices, such as computers, to provide a stable network connection.</dd>
         </dlentry>
       </dl>
     </section>

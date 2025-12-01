@@ -8,7 +8,7 @@
   <taskbody>
     <steps>
       <step>
-        <cmd>Check that your package has all three essential pieces of hardware: the Synology WRX560 router, an AC power adapter, and an RJ-45 LAN cable. You should also check to verify that you have an ISP modem and a working outlet to plug in the router.
+        <cmd>Check that your package has all three essential pieces of hardware: the Synology WRX560 router, an AC power adapter, and an RJ-45 LAN cable. You should also check that you have an ISP modem and a working outlet to plug in the router.
         </cmd>
         <stepresult>
           <note type="tip">
@@ -17,7 +17,7 @@
         </stepresult>
       </step>
       <step>
-        <cmd>Place your router in the spot where you intend to plug it in. An optimal area would be a flat, stable surface in the center of your area, ideally with few walls or ceilings between the router and your devices.
+        <cmd>Place your router in the spot where you intend to plug it in. Use a flat, stable surface in the center of your area, ideally with few walls or ceilings between the router and your devices.
         </cmd>
       </step>
       <step>
