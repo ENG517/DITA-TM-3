@@ -23,7 +23,7 @@
         </cmd>
         <stepresult>
           <note type="tip">
-          Your network administrator account is the account you made after installing your router. It's used for logging into your Synology network.
+          Your network administrator account is the account you made after installing your router. It's used for logging into the Synology network.
           </note>
         </stepresult>
       </step>
