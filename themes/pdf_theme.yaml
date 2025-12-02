@@ -59,14 +59,14 @@ fonts:
     monospaced: 'Fantasque Sans Mono, Courier New, Courier'
   sizing:
     title: 36pt
-    h1: 28pt
-    h2: 23pt
-    h3: 23pt
-    h4: 18pt
-    h5: 18pt
-    h6: 18pt
+    h1: 33pt
+    h2: 25pt
+    h3: 25pt
+    h4: 18.5pt
+    h5: 18.5pt
+    h6: 14pt
     copy: 14pt
-    uicontrol: 14.5pt
+    uicontrol: 14pt
     small: 12pt
 
 #############################
