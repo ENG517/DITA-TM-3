@@ -10,7 +10,7 @@ This repo contains a DITA topic model (TM) related to installing, replacing, and
 
 ## Project Maps
 
-### User Scenario 1: Novice Users - Installing a Wi-Fi Router
+### User Scenario 1: Novice User - Installing a Wi-Fi Router
 
 <!-- NOVICE USER -->
 
@@ -38,7 +38,7 @@ Map Outline:
 - r_types_of_router_hardware.dita
 
 
-### User Scenario 3: Experienced Users - Troubleshooting a Wi-Fi Router
+### User Scenario 3: Experienced User - Troubleshooting a Wi-Fi Router
 
 <!-- EXPERIENCED USERS: Troubleshooting. Map should include reference and concept tasks -->
 
