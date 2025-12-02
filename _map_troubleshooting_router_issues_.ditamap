@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_troubleshooting_router_issues">
   <title>Troubleshooting Issues with a Synology WRX560 Wi-Fi Router</title>
+  <topicref type="concept" href="concept/c_troubleshooting_process.dita" />
   <topicref type="task" href="tasks/t_troubleshoot_hardware.dita" />
   <topicref type="task" href="tasks/t_troubleshoot_software.dita" />
   <topicref type="reference" href="references/r_types_of_router_hardware.dita" />
