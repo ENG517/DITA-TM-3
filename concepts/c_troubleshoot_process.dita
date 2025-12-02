@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_enter_troubleshoot_process">
-  <title>What Is Troubleshooting?</title>
-  <shortdesc>'Troubleshooting' is a common term when it comes to technology, which is why it's important to know what it means and how to do it!</shortdesc>
+  <title>What is Troubleshooting?</title>
+  <shortdesc>'Troubleshooting' is a common technology term that means finding the source of a device's performance issues or errors. It's important to know what it means and how to do it!</shortdesc>
   <conbody>
     <section>
-      <p>Troubleshooting means finding the source of a device's performance issues or errors. If you've ever turned your phone or laptop off and then back on again to fix a slow internet connection, you've engaged in troubleshooting! For Wi-Fi routers, troubleshooting can look like many different things, including:</p>
+      <p>If you've ever turned your phone or laptop off and back on again to fix a slow internet connection, you've engaged in troubleshooting! Troubleshooting Wi-Fi routers can take many forms, including:</p>
         <ul>
           <li>Checking for physical damage to the hardware, like dust build-up or scratches</li>
           <li>Restarting the router or disconnecting and reconnecting the internet connection</li>
           <li>Updating the software or replacing hardware parts</li>
           <li>Moving the router to a safer or more efficient location</li>
-          <li>Checking the router settings for any needed adjustments</li>
+          <li>Checking the router settings for any necessary adjustments</li>
         </ul>
     </section>
   </conbody>
