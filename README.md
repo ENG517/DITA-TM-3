@@ -1,16 +1,16 @@
 # DITA Topic Model - Enter Title Here
 
-This repo contains a DITA topic model (TM) related to ...
+This repo contains a DITA topic model (TM) related to installing, replacing, and troubleshooting Wi-Fi routers.
 
 ## Authors
 
-Madison Greenstein
-Alyssa Johnson
-Stephen Synk
+- Madison Greenstein
+- Alyssa Johnson
+- Stephen Synk
 
 ## Project Maps
 
-### User Scenario 1: ...
+### User Scenario 1: Novice Users - Installing a Wi-Fi Router
 
 <!-- NOVICE USER -->
 
@@ -25,7 +25,7 @@ Map Outline:
 - r_glossary.dita
 
 
-### User Scenario 2: ...
+### User Scenario 2: Experienced User, Non-Expert - Replacing a Wi-Fi Router
 
 <!-- EXPERIENCED USER, *NON-EXPERT* -->
 
@@ -38,17 +38,18 @@ Map Outline:
 - r_types_of_router_hardware.dita
 
 
-### User Scenario 3: ...
+### User Scenario 3: Experienced Users - Troubleshooting a Wi-Fi Router
 
 <!-- EXPERIENCED USERS: Troubleshooting. Map should include reference and concept tasks -->
 
 Pam and Gray are an elderly married, retired couple in their 70s who are having connectivity/speed issues with their Synology WRX560 Wi-Fi router. Although they're very familiar with the Synology WRX560 Wi-Fi router, including the installation and set-up process, they have no experience with troubleshooting and are unsure where to even start. They want to resolve the issue efficiently, but they don't have a major time constraint since they are retired. Their priority is to learn this information and be able to refer to it for future cases. They're also looking for a guide that is easily understandable to a non-technical audience and includes definitions for any technical terms.
 
 Map Outline:
+- c_troubleshoot_process.dita
 - t_troubleshoot_hardware.dita 
 - t_troubleshoot_software.dita
 - r_types_of_router_hardware.dita
-- r_glossary
+- r_glossary.dita
 
 
 ## Folders &amp; Files
