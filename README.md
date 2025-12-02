@@ -1,4 +1,4 @@
-# DITA Topic Model - Enter Title Here
+# DITA Topic Model - Wi-Fi Routers
 
 This repo contains a DITA topic model (TM) related to installing, replacing, and troubleshooting Wi-Fi routers.
 
