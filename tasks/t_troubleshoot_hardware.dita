@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_troubleshooting_hardware">
+<task id="t_troubleshoot_hardware">
   <title>Troubleshooting Physical Issues</title>
   <shortdesc>
     If resetting your router doesn't work, there may be some physical issues, such as a faulty power source, hardware damage, or the router being in the wrong environment.
