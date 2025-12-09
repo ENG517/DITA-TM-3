@@ -202,7 +202,7 @@ header:
   color: $colors-primary-main
   display-align: before
   end-indent: 10mm
-  font-family: $fonts-families-headings
+  font-family: $fonts-families-copy
   font-size: $fonts-sizing-small
   font-weight: light
   padding-after: $spacing-lines-small
