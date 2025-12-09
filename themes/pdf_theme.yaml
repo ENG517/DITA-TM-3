@@ -18,26 +18,26 @@
 #########
 colors:
   primary: 
-    main: '#005687' #Dark Blue
-    s1: '#e1f5fe'
-    s2: '#b3e5fc'
-    s3: '#4fc3f7'
-    s4: '#0288d1'
-    s5: '#186cb8'
+    main: '#002955' #Dark Blue
+    s1: '#e6f2ff'
+    s2: '#b9dbff'
+    s3: '#3496ff'
+    s4: '#00649e'
+    s5: '#003f82'
   secondary: 
-    main: '#f44336' #Dark Red
-    s1: '#ffdde0'
-    s2: '#ffcdd2'
-    s3: '#ef9a9a'
-    s4: '#d32f2f'
-    s5: '#b71c1c'
+    main: '#007548' #Dark Mint Green
+    s1: '#e6fff5'
+    s2: '#b8ffe4'
+    s3: '#00d181'
+    s4: '#00a365'
+    s5: '#00472c'
   accent1:
-    main: '#f1b211' #Golden rod yellow
-    s1: '#f9f1dc'
-    s2: '#f4dea7'
-    s3: '#f2cb69'
-    s4: '#f0bb34'
-    s5: '#e4a80b'
+    main: '#f2a73d' #Dark Golden rod yellow
+    s1: '#fdf4e7'
+    s2: '#fae0bc'
+    s3: '#f7cd91'
+    s4: '#f4b966'
+    s5: '#ee9211'
   neutrals: # No need to change neutrals; only in value or saturation
     s1: '#f2f2f2'
     s2: '#e8e9e9'
@@ -53,10 +53,10 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Public Sans, Arial Unicode MS'
-    headings: 'Being Human, Times New Roman'
-    display: 'Monoton'
-    monospaced: 'Fantasque Sans Mono, Courier New, Courier'
+    copy: 'Hind Vadodara, Arial Unicode MS'
+    headings: 'Oswald, Times New Roman'
+    display: 'Fira Sans'
+    monospaced: 'PT Mono, Courier New, Courier'
   sizing:
     title: 36pt
     h1: 33pt
