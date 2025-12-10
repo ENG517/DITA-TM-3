@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8"?>
 <val>
   <prop att="audience" val="novice" action="include"/>
   <prop att="audience" val="expert" action="exclude"/>
