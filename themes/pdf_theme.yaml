@@ -164,7 +164,7 @@ style:
     padding-after: $spacing-lines-small
     padding-start: $spacing-lines-small
     padding-end: $spacing-lines-small
-    margin-bottom: $spacing-lines-small
+    margin-bottom: $spacing-lines-xsmall
     keep-together.within-page: always
     caution:
       background-color: $colors-secondary-s1
