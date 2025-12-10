@@ -19,7 +19,7 @@
       <steps>
         <step>
           <cmd>Disconnect all of your devices from the old router's Wi-Fi network.</cmd>
-          <stepresult>
+          <stepresult audience="novice">
             <note type="tip">
             For wired devices, this means powering them off, and for wireless devices, this means signing them out of the old network in Settings.
           </note>

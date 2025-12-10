@@ -28,7 +28,7 @@
         <cmd>Plug one end of your power adapter to the power port of your router, and connect the other end to your chosen power outlet.
         </cmd>
         <stepresult>
-          <note type="tip">
+          <note type="tip" audience="novice">
             The power port is the small circular port next to the power button. 
           </note>
         </stepresult>

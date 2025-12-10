@@ -15,7 +15,7 @@
           </note>
         </stepresult>
       </step>
-      <step>
+      <step audience="expert">
         <cmd>Inspect the router, modem and cables for signs of physical damage. This can include tears or kinks in cables, dust build-up in the router vent, and cracks or dents in the router or modem.</cmd>
         <stepresult>
           <note type="tip">If there's a dust build-up in your router vents, you can try removing it with compressed air or a cotton swab. If any of the hardware is damaged, the best thing to do is replace it!</note>

@@ -21,7 +21,7 @@
         <cmd>
           Log into your network administrator account for your router.
         </cmd>
-        <stepresult>
+        <stepresult audience="novice">
           <note type="tip">
           Your network administrator account is the account you made after installing your router. It's used for logging into the Synology network.
           </note>
@@ -30,7 +30,7 @@
       <step>
         <cmd>Navigate to the <uicontrol> Firmware Update </uicontrol> section and upload the new file.
         </cmd>
-        <stepresult>
+        <stepresult audience="novice">
           <note type="tip">
           Do not interrupt this new update; it could severely damage your router.
         </note>
@@ -46,17 +46,17 @@
           Check your device's connection to see if the issue has been resolved.
         </cmd>
       </step>
-      <stepsection>If nothing has worked so far, it might be best to look at your router's settings and see if something needs to be changed!</stepsection>
-        <step>
+      <stepsection audience="expert">If nothing has worked so far, it might be best to look at your router's settings and see if something needs to be changed!</stepsection>
+        <step audience="expert">
           <cmd>Log into your network administrator account on a device to review your settings.</cmd>
         </step>
-        <step>
+        <step audience="expert">
           <cmd>Check that DHCP server function is enabled.</cmd>
         </step>
-        <step>
+        <step audience="expert">
           <cmd>Clear your cache or use the Flush DNS option.</cmd>
         </step>
-        <step>
+        <step audience="expert">
           <cmd>Reboot your router by clicking 'Reboot'.</cmd>
         </step> <!-- Attempt at adding the proposed section on settings-->
     </steps>
