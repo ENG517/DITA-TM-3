@@ -83,6 +83,8 @@ spacing:
     medium: 18pt # ~14x1.3 as base between paragraphs
     small: 9pt
     xsmall: 4pt
+    # LINDGREN: added for some uses with notes
+    xxsmall: 2pt
 
 ################
 # PAGE SETTINGS
@@ -165,6 +167,8 @@ style:
     padding-start: $spacing-lines-small
     padding-end: $spacing-lines-small
     margin-bottom: $spacing-lines-xsmall
+    # Indenting for visual hierarchy
+    margin-left: $spacing-lines-xxsmall
     keep-together.within-page: always
     caution:
       background-color: $colors-secondary-s1

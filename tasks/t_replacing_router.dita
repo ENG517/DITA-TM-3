@@ -34,8 +34,9 @@
           </substeps>
           <info>
             <fig>
+              <!-- LINDGREN: Be sure not to break the page -->
               <title>Up-Close Shot of the Ports of a Synology WRX560 Router</title>
-              <image scope="local" href="./../assets/images/screenshots/up_close_port_screenshot.jpeg" />
+              <image scope="local" href="./../assets/images/screenshots/up_close_port_screenshot.jpeg" width="400px" />
             </fig>
           </info>
         </step>
@@ -44,11 +45,24 @@
         </step>
         <step>
           <cmd>Dispose of the old router and any other hardware you're swapping out for the new installation.</cmd>
-          <stepresult>
+          <!-- LINDGREN:
+            Here's a more semantic method, since a stepresult
+            suggests a very different type of content.
+            I see this pattern throughout the model, and I
+            understand the desire to add notes after the step's
+            command. However, if it is a warning or caution, then
+            I highly recommend placing those notes before the command.
+          -->
+          <info>
             <note type="tip">
               It's recommended that you replace your power adapter cable, even if you don't replace your LAN cable; keeping the old power adapter could lead to performance issues in your new router.
               </note>
-          </stepresult>
+          </info>
+          <!-- <stepresult>
+            <note type="tip">
+              It's recommended that you replace your power adapter cable, even if you don't replace your LAN cable; keeping the old power adapter could lead to performance issues in your new router.
+              </note>
+          </stepresult> -->
         </step>
         <step>
           <cmd>Install the hardware for your new router as normal.</cmd>
@@ -59,6 +73,18 @@
       </steps>
     
     <!-- add result condition: how does the user know it is successful? -->
-    <result>After completing the software set-up, try connecting one of your devices to the new network and accessing the internet. If your device connects and the internet connection is stable, then congratulations! You've successfully replaced your old Synology WRX560 router with a new one. If you need a quick refresher on the installation process, feel free to check out the user guide. You can also visit <xref scope="external" href="https://kb.synology.com/en-us/SRM">Synology's official website</xref> if you have any questions!</result> <!-- attempt at adding a result condition -->
+    <result>
+      <!-- LINDGREN:
+        Broke up the content more with semantic tags. I see this similar
+        need in other topics across other areas like prereqs too.
+        But, great work adding this information for folks!
+      -->
+      <p>
+        After completing the software set-up, try connecting one of your devices to the new network and accessing the internet. If your device connects and the internet connection is stable, then congratulations!
+      </p>
+      <p>
+        You've successfully replaced your old Synology WRX560 router with a new one. If you need a quick refresher on the installation process, feel free to check out the user guide. You can also visit <xref scope="external" href="https://kb.synology.com/en-us/SRM">Synology's official website</xref> if you have any questions! <!-- attempt at adding a result condition -->
+      </p>
+    </result>
   </taskbody>
 </task>
